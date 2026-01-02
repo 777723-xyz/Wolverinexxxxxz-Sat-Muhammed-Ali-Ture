@@ -34,6 +34,14 @@ Bu oyun RPG Maker ile geliştirilmiştir. Oyunu oynamak için gerekli adımlar:
 1.  Bu depoyu bilgisayarınıza indirin .
 2.  İndirdiğiniz klasörün içindeki `Game.exe` dosyasını çalıştırın.
 
+## 🗺️ Oyun İçinden Görseller 
+
+
+<img width="1920" height="979" alt="Zindanlar ve Zindanlar 2 01 2026 10_27_22" src="https://github.com/user-attachments/assets/cb305c89-2961-4c12-a5f3-a46af32bf6fe" />
+
+<img width="1920" height="983" alt="Zindanlar ve Zindanlar 2 01 2026 10_51_45" src="https://github.com/user-attachments/assets/08cb9b08-4783-49d8-b63a-cf4266aa175c" />
+
+<img width="1920" height="981" alt="Zindanlar ve Zindanlar 2 01 2026 10_52_23" src="https://github.com/user-attachments/assets/a27cc986-aa06-499b-bbc2-85b200dc2483" />
 
 ## 🧑‍💻 Geliştirici Bilgisi
 
